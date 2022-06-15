@@ -1,4 +1,4 @@
 def hello() -> str:
-    s = "Hello World!"
+    s = "Hello World"
     print(s)
     return s
