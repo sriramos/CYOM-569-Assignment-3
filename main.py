@@ -1,5 +1,5 @@
 
 def hello() -> str:
-  s = "Hello World"
-  print(s)
-  return s
+    s = "Hello World"
+    print(s)
+    return s
