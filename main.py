@@ -3,4 +3,5 @@ def hello() -> str:
     print(s)
     return s
 
+
 print(hello())
