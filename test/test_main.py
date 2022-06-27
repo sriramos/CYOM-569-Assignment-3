@@ -2,4 +2,4 @@ import main
 
 
 def test_hello():
-    assert main.hello() == "Hello Worl"
+    assert main.hello() == "Hello World"
